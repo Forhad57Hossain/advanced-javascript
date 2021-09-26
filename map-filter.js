@@ -11,8 +11,8 @@ function square(element) {
     return element * element;
 }
 
-const square = element => element * element;
-const square = x => x * x;
+//const square = element => element * element;
+//const square = x => x * x;
 
 const result = numbers.map(x => x * x);
 console.log(result);
